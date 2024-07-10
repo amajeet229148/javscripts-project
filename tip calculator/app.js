@@ -1,1 +1,0 @@
-const billamount = document.query
